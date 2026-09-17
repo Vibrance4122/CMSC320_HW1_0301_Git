@@ -4,3 +4,9 @@ Answer:
 Git lets you track changes to your code and go back to earlier versions if something breaks. 
 It also makes teamwork easier since people can work on the same project without overwriting each other's changes. 
 You can also use branches to test new ideas without affecting the main code.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: 
+Data science can be applied to healthcare. For example, hospitals can analyze patient data to identify trends, 
+predict health risks, and improve treatment decisions.
